@@ -1,4 +1,4 @@
-# heroku-website-template
+# heroku-template-website
 
 ## Web Site template
 
