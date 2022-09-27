@@ -1,0 +1,8 @@
+{
+  "name": "httpd-docker-heroku",
+  "description": "A barebones httpd installation using Docker",
+  "repository": "https://github.com/panik5467/httpd-docker-image",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
+  "keywords": ["httpd", "docker", "busybox"],
+  "stack": "container"
+}
